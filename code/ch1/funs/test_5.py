@@ -6,3 +6,8 @@ def test_passing():
 def test_passing2():
     print('hello')
     assert (1, 2, 4) == (1, 2, 3)
+
+
+def test_passing4():
+    print('hello')
+    assert (1, 2, 4) == (1, 2, 3)
